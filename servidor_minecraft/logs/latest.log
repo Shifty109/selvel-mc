@@ -1,36 +1,36 @@
-[25Dec2024 21:41:31.890] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[25Dec2024 21:41:31.897] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[25Dec2024 21:41:35.956] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[25Dec2024 21:41:36.051] [main/INFO] [mixin-transmog/]: Mixin Transmogrifier is definitely up to no good...
-[25Dec2024 21:41:36.083] [main/INFO] [mixin-transmog/]: crimes against java were committed
-[25Dec2024 21:41:36.110] [main/INFO] [mixin-transmog/]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
-[25Dec2024 21:41:36.182] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/selvel-mc/servidor_minecraft/mods/Connector-1.0.0-beta.46+1.20.1.jar%23173%23176!/ Service=ModLauncher Env=SERVER
-[25Dec2024 21:41:36.960] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/selvel-mc/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[25Dec2024 21:41:36.961] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/selvel-mc/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[25Dec2024 21:41:36.963] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/selvel-mc/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[25Dec2024 21:41:36.965] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/selvel-mc/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[25Dec2024 21:41:37.858] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[25Dec2024 21:41:37.859] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[25Dec2024 21:41:37.861] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 54 dependencies adding them to mods collection
-[25Dec2024 21:41:38.817] [main/INFO] [org.sinytra.connector.locator.DependencyResolver/]: Dependency resolution found 2 candidates to load
-[25Dec2024 21:41:40.536] [main/INFO] [org.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module authlib transformable
-[25Dec2024 21:41:42.110] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[25Dec2024 21:41:42.450] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[25Dec2024 21:41:42.453] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
-[25Dec2024 21:41:42.472] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[25Dec2024 21:41:42.701] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[25Dec2024 21:41:42.974] [main/INFO] [Canary/]: Loaded configuration file for Canary: 116 options available, 0 override(s) found
-[25Dec2024 21:41:43.030] [main/INFO] [Puzzles Lib/]: Loading 120 mods:
+[26Dec2024 01:36:16.875] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[26Dec2024 01:36:16.878] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[26Dec2024 01:36:20.168] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[26Dec2024 01:36:20.238] [main/INFO] [mixin-transmog/]: Mixin Transmogrifier is definitely up to no good...
+[26Dec2024 01:36:20.275] [main/INFO] [mixin-transmog/]: crimes against java were committed
+[26Dec2024 01:36:20.299] [main/INFO] [mixin-transmog/]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
+[26Dec2024 01:36:20.362] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/selvel-mc/servidor_minecraft/mods/Connector-1.0.0-beta.46+1.20.1.jar%23173%23176!/ Service=ModLauncher Env=SERVER
+[26Dec2024 01:36:21.079] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/selvel-mc/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[26Dec2024 01:36:21.081] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/selvel-mc/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[26Dec2024 01:36:21.083] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/selvel-mc/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[26Dec2024 01:36:21.085] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/selvel-mc/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[26Dec2024 01:36:21.925] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[26Dec2024 01:36:21.926] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[26Dec2024 01:36:21.929] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 54 dependencies adding them to mods collection
+[26Dec2024 01:36:22.988] [main/INFO] [org.sinytra.connector.locator.DependencyResolver/]: Dependency resolution found 2 candidates to load
+[26Dec2024 01:36:24.942] [main/INFO] [org.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module authlib transformable
+[26Dec2024 01:36:26.448] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[26Dec2024 01:36:26.794] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[26Dec2024 01:36:26.797] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[26Dec2024 01:36:26.814] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[26Dec2024 01:36:27.056] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[26Dec2024 01:36:27.252] [main/INFO] [Canary/]: Loaded configuration file for Canary: 116 options available, 0 override(s) found
+[26Dec2024 01:36:27.298] [main/INFO] [Puzzles Lib/]: Loading 120 mods:
 	- advancementplaques 1.6.7
 	- alexsmobs 1.22.9
 	- apollyon 1.1.1
 	- appleskin 2.5.1+mc1.20.1
 	- architectury 9.2.14
 	- artifacts 9.5.13
-		|-- expandability 9.0.4
-		\-- mixinextras 0.3.5
+		\-- expandability 9.0.4
 	- backpacked 3.0.0-beta.9
 	- better_totem_of_undying 2.0.1
+		\-- mixinextras 0.3.5
 	- betteradvancements 0.4.2.25
 	- bettercombat 1.8.6+1.20.1
 	- biodiverse 1.0.0
@@ -141,120 +141,120 @@
 	- the_boiled_one 1.0.0
 	- tombstone 8.8.6
 	- watching 1.9.2
-[25Dec2024 21:41:43.063] [main/WARN] [mixin/]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
-[25Dec2024 21:41:43.833] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[25Dec2024 21:41:43.834] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
-[25Dec2024 21:41:43.835] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin from mod relics
-[25Dec2024 21:41:43.838] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER
-[25Dec2024 21:41:43.839] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/MouseHandler (java.lang.RuntimeException: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER)
-[25Dec2024 21:41:43.839] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.MouseHandler was not found fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1
-[25Dec2024 21:41:43.840] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[25Dec2024 21:41:43.840] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
-[25Dec2024 21:41:43.840] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found fabric-screen-api-v1.mixins.json:ScreenAccessor from mod fabric_screen_api_v1
-[25Dec2024 21:41:45.208] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/inventory/AbstractContainerScreen for invalid dist DEDICATED_SERVER
-[25Dec2024 21:41:45.209] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/inventory/AbstractContainerScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/inventory/AbstractContainerScreen for invalid dist DEDICATED_SERVER)
-[25Dec2024 21:41:45.210] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.inventory.AbstractContainerScreen was not found itemborders.mixins.json:AbstractContainerScreenMixin from mod itemborders
-[25Dec2024 21:41:45.216] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER
-[25Dec2024 21:41:45.216] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/Gui (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER)
-[25Dec2024 21:41:45.216] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.Gui was not found itemborders.mixins.json:GuiMixin from mod itemborders
-[25Dec2024 21:41:46.219] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[25Dec2024 21:41:48.893] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on sanitydim.mixins.json:MixinEntity from mod sanitydim::handler$zcg000$sanitydim$move exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[25Dec2024 21:41:55.546] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin from mod refurbished_furniture::handler$zhn000$refurbished_furniture$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[25Dec2024 21:41:57.457] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
-[25Dec2024 21:41:57.620] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[25Dec2024 21:41:57.621] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[25Dec2024 21:41:57.622] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[25Dec2024 21:41:57.623] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[25Dec2024 21:41:57.623] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[25Dec2024 21:41:57.623] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[25Dec2024 21:41:57.624] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[25Dec2024 21:41:57.700] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[25Dec2024 21:41:57.701] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[25Dec2024 21:41:57.766] [modloading-worker-0/INFO] [croissantnova.sanitydim.SanityMod/]: Applying dimension config example.toml
-[25Dec2024 21:41:57.858] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.87.
-[25Dec2024 21:41:58.024] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[25Dec2024 21:41:58.025] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id pandalib:config_sync
-[25Dec2024 21:41:58.200] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
-[25Dec2024 21:41:58.234] [modloading-worker-0/INFO] [fallingtrees | Config/]: Successfully loaded config 'fallingtrees_common'
-[25Dec2024 21:41:58.244] [modloading-worker-0/INFO] [fallingtrees | Config/]: Successfully saved config 'fallingtrees_common'
-[25Dec2024 21:41:58.450] [modloading-worker-0/WARN] [fallingleaves/]: Falling Leaves is a client only mod and should be removed from the mods list
-[25Dec2024 21:41:58.632] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[25Dec2024 21:41:58.634] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[25Dec2024 21:41:58.635] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[25Dec2024 21:41:58.638] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[25Dec2024 21:41:58.639] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[25Dec2024 21:41:58.641] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[25Dec2024 21:41:58.642] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[25Dec2024 21:41:58.689] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[25Dec2024 21:41:58.689] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[25Dec2024 21:41:59.476] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
-[25Dec2024 21:41:59.497] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[25Dec2024 21:41:59.511] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[25Dec2024 21:41:59.918] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Capturing existing worldgen registries
-[25Dec2024 21:41:59.919] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Found 0 injected RegistryDataLoader worldgen registries
-[25Dec2024 21:42:02.297] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
-[25Dec2024 21:42:02.359] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
-[25Dec2024 21:42:03.370] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
-[25Dec2024 21:42:04.885] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
-[25Dec2024 21:42:05.837] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
-[25Dec2024 21:42:05.838] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Starting version check at https://mc-update-check.anthonyhilyard.com/638111
-[25Dec2024 21:42:06.112] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Found status: UP_TO_DATE Current: 1.0.5 Target: null
-[25Dec2024 21:42:06.113] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
-[25Dec2024 21:42:06.521] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
-[25Dec2024 21:42:06.521] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[25Dec2024 21:42:07.139] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.8 Target: null
-[25Dec2024 21:42:07.141] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
-[25Dec2024 21:42:07.178] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: UP_TO_DATE Current: 1.6.7 Target: null
-[25Dec2024 21:42:07.179] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sanitydim] Starting version check at https://raw.githubusercontent.com/croissantnova/SanityDescentIntoMadness/main/update.json
-[25Dec2024 21:42:07.190] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sanitydim] Found status: UP_TO_DATE Current: 1.1.0 Target: null
-[25Dec2024 21:42:07.191] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
-[25Dec2024 21:42:07.295] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: AHEAD Current: 1.20.1-1.0.19 Target: null
-[25Dec2024 21:42:07.296] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
-[25Dec2024 21:42:07.402] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.3 Target: 1.0.3
-[25Dec2024 21:42:07.403] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[25Dec2024 21:42:07.418] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.8.6 Target: null
-[25Dec2024 21:42:07.418] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[25Dec2024 21:42:07.714] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA Current: 1.0.8 Target: 1.0.8
-[25Dec2024 21:42:07.715] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[25Dec2024 21:42:08.579] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[25Dec2024 21:42:08.580] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
-[25Dec2024 21:42:08.596] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[25Dec2024 21:42:08.596] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
-[25Dec2024 21:42:08.701] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
-[25Dec2024 21:42:08.701] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [itemborders] Starting version check at https://mc-update-check.anthonyhilyard.com/513769
-[25Dec2024 21:42:08.735] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [itemborders] Found status: UP_TO_DATE Current: 1.2.2 Target: null
-[25Dec2024 21:42:08.735] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[25Dec2024 21:42:08.746] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[25Dec2024 21:42:08.747] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[25Dec2024 21:42:08.837] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
-[25Dec2024 21:42:08.838] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
-[25Dec2024 21:42:08.940] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
-[25Dec2024 21:42:08.940] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
-[25Dec2024 21:42:08.978] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
-[25Dec2024 21:42:08.978] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[25Dec2024 21:42:09.096] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
-[25Dec2024 21:42:09.096] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [backpacked] Starting version check at https://mrcrayfish.com/modupdatejson?id=backpacked
-[25Dec2024 21:42:09.457] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [backpacked] Found status: BETA Current: 3.0.0-beta.9 Target: 3.0.0-beta.9
-[25Dec2024 21:42:09.458] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
-[25Dec2024 21:42:09.479] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
-[25Dec2024 21:42:09.479] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[25Dec2024 21:42:09.493] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
-[25Dec2024 21:42:09.493] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[25Dec2024 21:42:09.505] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
-[25Dec2024 21:42:13.109] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[25Dec2024 21:42:13.169] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[25Dec2024 21:42:13.170] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[25Dec2024 21:42:13.170] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[25Dec2024 21:42:13.170] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[25Dec2024 21:42:13.172] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[25Dec2024 21:42:13.172] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[25Dec2024 21:42:13.173] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[25Dec2024 21:42:13.174] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:bolt_cool_down for minecraft:living_entity
-[25Dec2024 21:42:13.187] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:unlock_tracker for minecraft:player
-[25Dec2024 21:42:13.187] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:trader_pickpocketing for minecraft:wandering_trader
-[25Dec2024 21:42:13.621] [modloading-worker-0/INFO] [ShoulderSurfing/]: Registering plugin for Shoulder Surfing Reloaded (shouldersurfing)
-[25Dec2024 21:42:13.652] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[25Dec2024 21:42:13.654] [modloading-worker-0/ERROR] [ShoulderSurfing/]: Failed to load plugin for Shoulder Surfing Reloaded (shouldersurfing)
+[26Dec2024 01:36:27.319] [main/WARN] [mixin/]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
+[26Dec2024 01:36:28.019] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[26Dec2024 01:36:28.020] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[26Dec2024 01:36:28.021] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin from mod relics
+[26Dec2024 01:36:28.024] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER
+[26Dec2024 01:36:28.025] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/MouseHandler (java.lang.RuntimeException: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER)
+[26Dec2024 01:36:28.025] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.MouseHandler was not found fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1
+[26Dec2024 01:36:28.027] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[26Dec2024 01:36:28.027] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[26Dec2024 01:36:28.028] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found fabric-screen-api-v1.mixins.json:ScreenAccessor from mod fabric_screen_api_v1
+[26Dec2024 01:36:29.484] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/inventory/AbstractContainerScreen for invalid dist DEDICATED_SERVER
+[26Dec2024 01:36:29.484] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/inventory/AbstractContainerScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/inventory/AbstractContainerScreen for invalid dist DEDICATED_SERVER)
+[26Dec2024 01:36:29.485] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.inventory.AbstractContainerScreen was not found itemborders.mixins.json:AbstractContainerScreenMixin from mod itemborders
+[26Dec2024 01:36:29.490] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER
+[26Dec2024 01:36:29.490] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/Gui (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER)
+[26Dec2024 01:36:29.493] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.Gui was not found itemborders.mixins.json:GuiMixin from mod itemborders
+[26Dec2024 01:36:30.542] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[26Dec2024 01:36:33.636] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on sanitydim.mixins.json:MixinEntity from mod sanitydim::handler$zcg000$sanitydim$move exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[26Dec2024 01:36:39.854] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin from mod refurbished_furniture::handler$zhn000$refurbished_furniture$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[26Dec2024 01:36:41.585] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
+[26Dec2024 01:36:41.750] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[26Dec2024 01:36:41.754] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[26Dec2024 01:36:41.754] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[26Dec2024 01:36:41.754] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[26Dec2024 01:36:41.754] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[26Dec2024 01:36:41.754] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[26Dec2024 01:36:41.754] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[26Dec2024 01:36:41.781] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[26Dec2024 01:36:41.782] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[26Dec2024 01:36:41.893] [modloading-worker-0/INFO] [croissantnova.sanitydim.SanityMod/]: Applying dimension config example.toml
+[26Dec2024 01:36:41.912] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.87.
+[26Dec2024 01:36:42.107] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[26Dec2024 01:36:42.108] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id pandalib:config_sync
+[26Dec2024 01:36:42.383] [modloading-worker-0/INFO] [fallingtrees | Config/]: Successfully loaded config 'fallingtrees_common'
+[26Dec2024 01:36:42.395] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[26Dec2024 01:36:42.403] [modloading-worker-0/INFO] [fallingtrees | Config/]: Successfully saved config 'fallingtrees_common'
+[26Dec2024 01:36:42.554] [modloading-worker-0/WARN] [fallingleaves/]: Falling Leaves is a client only mod and should be removed from the mods list
+[26Dec2024 01:36:42.725] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[26Dec2024 01:36:42.726] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[26Dec2024 01:36:42.727] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[26Dec2024 01:36:42.728] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[26Dec2024 01:36:42.729] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[26Dec2024 01:36:42.735] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[26Dec2024 01:36:42.739] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[26Dec2024 01:36:42.821] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[26Dec2024 01:36:42.821] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[26Dec2024 01:36:43.566] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[26Dec2024 01:36:43.574] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[26Dec2024 01:36:43.585] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[26Dec2024 01:36:43.866] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Capturing existing worldgen registries
+[26Dec2024 01:36:43.866] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Found 0 injected RegistryDataLoader worldgen registries
+[26Dec2024 01:36:46.328] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
+[26Dec2024 01:36:46.377] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
+[26Dec2024 01:36:47.306] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[26Dec2024 01:36:49.071] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[26Dec2024 01:36:49.645] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
+[26Dec2024 01:36:49.645] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Starting version check at https://mc-update-check.anthonyhilyard.com/638111
+[26Dec2024 01:36:49.829] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Found status: UP_TO_DATE Current: 1.0.5 Target: null
+[26Dec2024 01:36:49.830] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[26Dec2024 01:36:50.248] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[26Dec2024 01:36:50.249] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[26Dec2024 01:36:50.763] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.8 Target: null
+[26Dec2024 01:36:50.767] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
+[26Dec2024 01:36:50.797] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: UP_TO_DATE Current: 1.6.7 Target: null
+[26Dec2024 01:36:50.798] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sanitydim] Starting version check at https://raw.githubusercontent.com/croissantnova/SanityDescentIntoMadness/main/update.json
+[26Dec2024 01:36:50.814] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sanitydim] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[26Dec2024 01:36:50.815] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
+[26Dec2024 01:36:50.918] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: AHEAD Current: 1.20.1-1.0.19 Target: null
+[26Dec2024 01:36:50.919] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
+[26Dec2024 01:36:51.024] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.3 Target: 1.0.3
+[26Dec2024 01:36:51.024] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[26Dec2024 01:36:51.034] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.8.6 Target: null
+[26Dec2024 01:36:51.035] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[26Dec2024 01:36:51.389] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA Current: 1.0.8 Target: 1.0.8
+[26Dec2024 01:36:51.389] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[26Dec2024 01:36:51.766] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[26Dec2024 01:36:51.767] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[26Dec2024 01:36:51.780] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[26Dec2024 01:36:51.780] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[26Dec2024 01:36:51.885] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[26Dec2024 01:36:51.885] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [itemborders] Starting version check at https://mc-update-check.anthonyhilyard.com/513769
+[26Dec2024 01:36:51.912] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [itemborders] Found status: UP_TO_DATE Current: 1.2.2 Target: null
+[26Dec2024 01:36:51.913] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[26Dec2024 01:36:51.923] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[26Dec2024 01:36:51.923] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[26Dec2024 01:36:52.051] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[26Dec2024 01:36:52.052] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
+[26Dec2024 01:36:52.160] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
+[26Dec2024 01:36:52.160] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[26Dec2024 01:36:52.188] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
+[26Dec2024 01:36:52.188] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[26Dec2024 01:36:52.332] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
+[26Dec2024 01:36:52.336] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [backpacked] Starting version check at https://mrcrayfish.com/modupdatejson?id=backpacked
+[26Dec2024 01:36:52.707] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [backpacked] Found status: BETA Current: 3.0.0-beta.9 Target: 3.0.0-beta.9
+[26Dec2024 01:36:52.707] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[26Dec2024 01:36:52.793] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
+[26Dec2024 01:36:52.793] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[26Dec2024 01:36:52.814] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[26Dec2024 01:36:52.814] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[26Dec2024 01:36:52.826] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
+[26Dec2024 01:36:54.885] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[26Dec2024 01:36:54.925] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[26Dec2024 01:36:54.925] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[26Dec2024 01:36:54.925] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[26Dec2024 01:36:54.925] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[26Dec2024 01:36:54.925] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[26Dec2024 01:36:54.925] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[26Dec2024 01:36:54.926] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[26Dec2024 01:36:54.926] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:bolt_cool_down for minecraft:living_entity
+[26Dec2024 01:36:54.941] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:unlock_tracker for minecraft:player
+[26Dec2024 01:36:54.941] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:trader_pickpocketing for minecraft:wandering_trader
+[26Dec2024 01:36:55.030] [modloading-worker-0/INFO] [ShoulderSurfing/]: Registering plugin for Shoulder Surfing Reloaded (shouldersurfing)
+[26Dec2024 01:36:55.042] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[26Dec2024 01:36:55.042] [modloading-worker-0/ERROR] [ShoulderSurfing/]: Failed to load plugin for Shoulder Surfing Reloaded (shouldersurfing)
 java.lang.BootstrapMethodError: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
 	at com.github.exopandora.shouldersurfing.plugin.ShoulderSurfingPlugin.register(ShoulderSurfingPlugin.java:26) ~[ShoulderSurfing-Forge-1.20.1-4.6.4.jar%23241!/:1.20.1-4.6.4]
 	at com.github.exopandora.shouldersurfing.plugin.PluginLoader.loadPlugin(PluginLoader.java:33) ~[ShoulderSurfing-Forge-1.20.1-4.6.4.jar%23241!/:1.20.1-4.6.4]
@@ -285,15 +285,15 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
 	... 17 more
-[25Dec2024 21:42:16.491] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[25Dec2024 21:42:19.042] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/selvel-mc/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23251!/assets/.mcassetsroot' uses unexpected schema
-[25Dec2024 21:42:19.043] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/selvel-mc/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23251!/data/.mcassetsroot' uses unexpected schema
-[25Dec2024 21:42:19.084] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on sanitydim.mixins.json:MixinServerPlayerGameMode from mod sanitydim::handler$zck000$sanitydim$destroyBlock exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[25Dec2024 21:42:20.566] [main/INFO] [croissantnova.sanitydim.SanityMod/]: Registering sanity command...
-[25Dec2024 21:42:20.688] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[25Dec2024 21:42:20.810] [Worker-Main-3/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.8.6.jar
-[25Dec2024 21:42:22.219] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 15 recipes
-[25Dec2024 21:42:22.221] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+[26Dec2024 01:36:57.786] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[26Dec2024 01:37:00.300] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/selvel-mc/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23251!/assets/.mcassetsroot' uses unexpected schema
+[26Dec2024 01:37:00.301] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/selvel-mc/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23251!/data/.mcassetsroot' uses unexpected schema
+[26Dec2024 01:37:00.404] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on sanitydim.mixins.json:MixinServerPlayerGameMode from mod sanitydim::handler$zck000$sanitydim$destroyBlock exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[26Dec2024 01:37:02.048] [main/INFO] [croissantnova.sanitydim.SanityMod/]: Registering sanity command...
+[26Dec2024 01:37:02.141] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[26Dec2024 01:37:02.328] [Worker-Main-2/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.8.6.jar
+[26Dec2024 01:37:03.509] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 15 recipes
+[26Dec2024 01:37:03.510] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -309,43 +309,1071 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[25Dec2024 21:42:22.395] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3236 advancements
-[25Dec2024 21:42:22.410] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[25Dec2024 21:42:22.417] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
-[25Dec2024 21:42:22.418] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[25Dec2024 21:42:23.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[25Dec2024 21:42:23.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[25Dec2024 21:42:23.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[25Dec2024 21:42:23.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[25Dec2024 21:42:24.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[25Dec2024 21:42:24.165] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[25Dec2024 21:42:24.262] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[25Dec2024 21:42:24.263] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[25Dec2024 21:42:24.263] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[25Dec2024 21:42:24.264] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[25Dec2024 21:42:24.293] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
-[25Dec2024 21:42:24.295] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
-[25Dec2024 21:42:24.297] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
-[25Dec2024 21:42:24.306] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
-[25Dec2024 21:42:24.471] [Server thread/INFO] [Framework/]: Loading server configs...
-[25Dec2024 21:42:24.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[25Dec2024 21:42:29.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[25Dec2024 21:42:34.702] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Dec2024 21:42:34.704] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Dec2024 21:42:34.705] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Dec2024 21:42:34.705] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Dec2024 21:42:34.706] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Dec2024 21:42:34.707] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Dec2024 21:42:34.709] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Dec2024 21:42:34.710] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Dec2024 21:42:34.710] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Dec2024 21:42:34.711] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Dec2024 21:42:34.712] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Dec2024 21:42:34.818] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Dec2024 21:42:35.318] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 28%
-[25Dec2024 21:42:35.819] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
-[25Dec2024 21:42:35.922] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6604 ms
-[25Dec2024 21:42:35.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.635s)! For help, type "help"
-[25Dec2024 21:42:35.987] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[25Dec2024 21:42:36.030] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 11463 bytes (in 2 string chunks with the size of 10000)
-[25Dec2024 21:42:36.031] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[26Dec2024 01:37:03.784] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3236 advancements
+[26Dec2024 01:37:03.809] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[26Dec2024 01:37:03.821] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[26Dec2024 01:37:03.823] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[26Dec2024 01:37:05.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[26Dec2024 01:37:05.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[26Dec2024 01:37:05.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[26Dec2024 01:37:05.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[26Dec2024 01:37:05.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[26Dec2024 01:37:05.887] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[26Dec2024 01:37:05.969] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[26Dec2024 01:37:05.970] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[26Dec2024 01:37:05.970] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[26Dec2024 01:37:05.970] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[26Dec2024 01:37:05.996] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[26Dec2024 01:37:05.997] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[26Dec2024 01:37:06.060] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[26Dec2024 01:37:06.063] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[26Dec2024 01:37:06.066] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for easymagic
+[26Dec2024 01:37:06.067] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for easymagic
+[26Dec2024 01:37:06.222] [Server thread/INFO] [Framework/]: Loading server configs...
+[26Dec2024 01:37:06.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[26Dec2024 01:37:11.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[26Dec2024 01:37:17.983] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Dec2024 01:37:18.248] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Dec2024 01:37:18.378] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Dec2024 01:37:18.394] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Dec2024 01:37:18.510] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Dec2024 01:37:18.513] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Dec2024 01:37:18.514] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Dec2024 01:37:18.577] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Dec2024 01:37:18.602] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Dec2024 01:37:18.603] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Dec2024 01:37:18.604] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Dec2024 01:37:18.604] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Dec2024 01:37:18.605] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Dec2024 01:37:18.606] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Dec2024 01:37:18.606] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Dec2024 01:37:19.095] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[26Dec2024 01:37:19.595] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 26%
+[26Dec2024 01:37:20.095] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[26Dec2024 01:37:20.559] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8965 ms
+[26Dec2024 01:37:20.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.569s)! For help, type "help"
+[26Dec2024 01:37:20.635] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[26Dec2024 01:37:20.756] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 11463 bytes (in 2 string chunks with the size of 10000)
+[26Dec2024 01:37:20.758] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[26Dec2024 01:42:09.369] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[26Dec2024 01:42:09.416] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LshiftF[/127.187.213.66:48685] logged in with entity id 470 at (202.5, 39.0, -76.5)
+[26Dec2024 01:42:09.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LshiftF joined the game
+[26Dec2024 01:42:09.663] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to LshiftF
+[26Dec2024 01:42:09.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LshiftF has made the advancement [Christmas]
+[26Dec2024 01:42:09.978] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[26Dec2024 01:42:09.980] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	Index: 8
+	Listeners:
+		0: HIGH
+		1: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		2: NORMAL
+		3: ASM: class net.meme.sirenhead.procedures.SirenHeadSpawnProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		4: ASM: class net.meme.sirenhead.Playerscreenshake onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		5: ASM: croissantnova.sanitydim.event.EventHandler@69bec763 tickPlayer(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		6: ASM: class net.mcreator.theanomaly.procedures.IsPlayerLookingProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		7: ASM: class com.tacz.guns.event.HitboxHelperEvent onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		8: ASM: class net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		9: ASM: class net.mcreator.fpsboostremake.procedures.ZoomvalueProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		10: ASM: class net.mcreator.fpsboostremake.procedures.UpdateFPSProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		11: ASM: class net.mcreator.fpsboostremake.procedures.NotifyProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		12: ASM: class net.mcreator.fpsboostremake.procedures.IndicatorGUIProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		13: ASM: class net.mcreator.fpsboostremake.procedures.Afkdetector2Procedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		14: ASM: class net.mcreator.fpsboostremake.procedures.AfkTimerProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		15: ASM: com.mrcrayfish.framework.event.ForgeEvents@224405e2 onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		16: ASM: class net.mcreator.theboiledone.procedures.RandomProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		17: ASM: class net.mcreator.theboiledone.procedures.EntityspawningProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		18: ASM: class net.mcreator.theboiledone.procedures.DProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		19: ASM: com.alrex.parcool.common.action.ActionProcessor@54c460d1 onTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		20: ASM: class net.mcreator.biodiverse.procedures.NormalReachProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		21: ASM: class apollyon.procedures.TheDamnedRisesProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		22: ASM: de.maxhenkel.camera.ServerEvents@42dc3d08 onTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.execute(ZoomvaluemoinProcedure.java:34)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.onPlayerTick(ZoomvaluemoinProcedure.java:23)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.__ZoomvaluemoinProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(Player.java:285)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(Connection.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[26Dec2024 01:42:10.025] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.187.213.66:48685
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:530) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.execute(ZoomvaluemoinProcedure.java:34) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.onPlayerTick(ZoomvaluemoinProcedure.java:23) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.mcreator.fpsboostremake.procedures.__ZoomvaluemoinProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920) ~[forge-1.20.1-47.3.7-universal.jar%23256!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	... 9 more
+[26Dec2024 01:42:10.101] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LshiftF lost connection: Internal server error
+[26Dec2024 01:42:10.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LshiftF left the game
+[26Dec2024 01:42:10.108] [Server thread/WARN] [com.alrex.parcool.ParCool/]: Limitation entry is not loaded for UUID:01206649-8226-31fd-a2a2-1bc511c3c575. Skipped.
+[26Dec2024 01:42:32.026] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LshiftF[/127.187.213.66:40649] logged in with entity id 505 at (202.5, 39.0, -76.5)
+[26Dec2024 01:42:32.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LshiftF joined the game
+[26Dec2024 01:42:32.107] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to LshiftF
+[26Dec2024 01:42:32.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[26Dec2024 01:42:32.173] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[26Dec2024 01:42:32.174] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	Index: 8
+	Listeners:
+		0: HIGH
+		1: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		2: NORMAL
+		3: ASM: class net.meme.sirenhead.procedures.SirenHeadSpawnProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		4: ASM: class net.meme.sirenhead.Playerscreenshake onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		5: ASM: croissantnova.sanitydim.event.EventHandler@69bec763 tickPlayer(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		6: ASM: class net.mcreator.theanomaly.procedures.IsPlayerLookingProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		7: ASM: class com.tacz.guns.event.HitboxHelperEvent onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		8: ASM: class net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		9: ASM: class net.mcreator.fpsboostremake.procedures.ZoomvalueProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		10: ASM: class net.mcreator.fpsboostremake.procedures.UpdateFPSProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		11: ASM: class net.mcreator.fpsboostremake.procedures.NotifyProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		12: ASM: class net.mcreator.fpsboostremake.procedures.IndicatorGUIProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		13: ASM: class net.mcreator.fpsboostremake.procedures.Afkdetector2Procedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		14: ASM: class net.mcreator.fpsboostremake.procedures.AfkTimerProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		15: ASM: com.mrcrayfish.framework.event.ForgeEvents@224405e2 onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		16: ASM: class net.mcreator.theboiledone.procedures.RandomProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		17: ASM: class net.mcreator.theboiledone.procedures.EntityspawningProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		18: ASM: class net.mcreator.theboiledone.procedures.DProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		19: ASM: com.alrex.parcool.common.action.ActionProcessor@54c460d1 onTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		20: ASM: class net.mcreator.biodiverse.procedures.NormalReachProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		21: ASM: class apollyon.procedures.TheDamnedRisesProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		22: ASM: de.maxhenkel.camera.ServerEvents@42dc3d08 onTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.execute(ZoomvaluemoinProcedure.java:34)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.onPlayerTick(ZoomvaluemoinProcedure.java:23)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.__ZoomvaluemoinProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(Player.java:285)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(Connection.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[26Dec2024 01:42:32.222] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.187.213.66:40649
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:530) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.execute(ZoomvaluemoinProcedure.java:34) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.onPlayerTick(ZoomvaluemoinProcedure.java:23) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.mcreator.fpsboostremake.procedures.__ZoomvaluemoinProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920) ~[forge-1.20.1-47.3.7-universal.jar%23256!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	... 9 more
+[26Dec2024 01:42:32.237] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[26Dec2024 01:42:32.241] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[26Dec2024 01:42:32.328] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[26Dec2024 01:42:32.328] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	Index: 8
+	Listeners:
+		0: HIGH
+		1: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		2: NORMAL
+		3: ASM: class net.meme.sirenhead.procedures.SirenHeadSpawnProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		4: ASM: class net.meme.sirenhead.Playerscreenshake onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		5: ASM: croissantnova.sanitydim.event.EventHandler@69bec763 tickPlayer(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		6: ASM: class net.mcreator.theanomaly.procedures.IsPlayerLookingProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		7: ASM: class com.tacz.guns.event.HitboxHelperEvent onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		8: ASM: class net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		9: ASM: class net.mcreator.fpsboostremake.procedures.ZoomvalueProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		10: ASM: class net.mcreator.fpsboostremake.procedures.UpdateFPSProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		11: ASM: class net.mcreator.fpsboostremake.procedures.NotifyProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		12: ASM: class net.mcreator.fpsboostremake.procedures.IndicatorGUIProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		13: ASM: class net.mcreator.fpsboostremake.procedures.Afkdetector2Procedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		14: ASM: class net.mcreator.fpsboostremake.procedures.AfkTimerProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		15: ASM: com.mrcrayfish.framework.event.ForgeEvents@224405e2 onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		16: ASM: class net.mcreator.theboiledone.procedures.RandomProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		17: ASM: class net.mcreator.theboiledone.procedures.EntityspawningProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		18: ASM: class net.mcreator.theboiledone.procedures.DProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		19: ASM: com.alrex.parcool.common.action.ActionProcessor@54c460d1 onTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		20: ASM: class net.mcreator.biodiverse.procedures.NormalReachProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		21: ASM: class apollyon.procedures.TheDamnedRisesProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		22: ASM: de.maxhenkel.camera.ServerEvents@42dc3d08 onTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.execute(ZoomvaluemoinProcedure.java:34)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.onPlayerTick(ZoomvaluemoinProcedure.java:23)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.__ZoomvaluemoinProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(Player.java:285)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(Connection.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[26Dec2024 01:42:32.381] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.187.213.66:40649
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:530) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.execute(ZoomvaluemoinProcedure.java:34) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.onPlayerTick(ZoomvaluemoinProcedure.java:23) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.mcreator.fpsboostremake.procedures.__ZoomvaluemoinProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920) ~[forge-1.20.1-47.3.7-universal.jar%23256!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	... 9 more
+[26Dec2024 01:42:32.441] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[26Dec2024 01:42:32.446] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	Index: 8
+	Listeners:
+		0: HIGH
+		1: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		2: NORMAL
+		3: ASM: class net.meme.sirenhead.procedures.SirenHeadSpawnProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		4: ASM: class net.meme.sirenhead.Playerscreenshake onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		5: ASM: croissantnova.sanitydim.event.EventHandler@69bec763 tickPlayer(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		6: ASM: class net.mcreator.theanomaly.procedures.IsPlayerLookingProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		7: ASM: class com.tacz.guns.event.HitboxHelperEvent onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		8: ASM: class net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		9: ASM: class net.mcreator.fpsboostremake.procedures.ZoomvalueProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		10: ASM: class net.mcreator.fpsboostremake.procedures.UpdateFPSProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		11: ASM: class net.mcreator.fpsboostremake.procedures.NotifyProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		12: ASM: class net.mcreator.fpsboostremake.procedures.IndicatorGUIProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		13: ASM: class net.mcreator.fpsboostremake.procedures.Afkdetector2Procedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		14: ASM: class net.mcreator.fpsboostremake.procedures.AfkTimerProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		15: ASM: com.mrcrayfish.framework.event.ForgeEvents@224405e2 onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		16: ASM: class net.mcreator.theboiledone.procedures.RandomProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		17: ASM: class net.mcreator.theboiledone.procedures.EntityspawningProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		18: ASM: class net.mcreator.theboiledone.procedures.DProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		19: ASM: com.alrex.parcool.common.action.ActionProcessor@54c460d1 onTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		20: ASM: class net.mcreator.biodiverse.procedures.NormalReachProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		21: ASM: class apollyon.procedures.TheDamnedRisesProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		22: ASM: de.maxhenkel.camera.ServerEvents@42dc3d08 onTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.execute(ZoomvaluemoinProcedure.java:34)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.onPlayerTick(ZoomvaluemoinProcedure.java:23)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.__ZoomvaluemoinProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(Player.java:285)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(Connection.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[26Dec2024 01:42:32.497] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.187.213.66:40649
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:530) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.execute(ZoomvaluemoinProcedure.java:34) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.onPlayerTick(ZoomvaluemoinProcedure.java:23) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.mcreator.fpsboostremake.procedures.__ZoomvaluemoinProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920) ~[forge-1.20.1-47.3.7-universal.jar%23256!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	... 9 more
+[26Dec2024 01:42:32.548] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[26Dec2024 01:42:32.578] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[26Dec2024 01:42:32.579] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	Index: 8
+	Listeners:
+		0: HIGH
+		1: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		2: NORMAL
+		3: ASM: class net.meme.sirenhead.procedures.SirenHeadSpawnProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		4: ASM: class net.meme.sirenhead.Playerscreenshake onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		5: ASM: croissantnova.sanitydim.event.EventHandler@69bec763 tickPlayer(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		6: ASM: class net.mcreator.theanomaly.procedures.IsPlayerLookingProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		7: ASM: class com.tacz.guns.event.HitboxHelperEvent onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		8: ASM: class net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		9: ASM: class net.mcreator.fpsboostremake.procedures.ZoomvalueProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		10: ASM: class net.mcreator.fpsboostremake.procedures.UpdateFPSProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		11: ASM: class net.mcreator.fpsboostremake.procedures.NotifyProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		12: ASM: class net.mcreator.fpsboostremake.procedures.IndicatorGUIProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		13: ASM: class net.mcreator.fpsboostremake.procedures.Afkdetector2Procedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		14: ASM: class net.mcreator.fpsboostremake.procedures.AfkTimerProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		15: ASM: com.mrcrayfish.framework.event.ForgeEvents@224405e2 onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		16: ASM: class net.mcreator.theboiledone.procedures.RandomProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		17: ASM: class net.mcreator.theboiledone.procedures.EntityspawningProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		18: ASM: class net.mcreator.theboiledone.procedures.DProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		19: ASM: com.alrex.parcool.common.action.ActionProcessor@54c460d1 onTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		20: ASM: class net.mcreator.biodiverse.procedures.NormalReachProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		21: ASM: class apollyon.procedures.TheDamnedRisesProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		22: ASM: de.maxhenkel.camera.ServerEvents@42dc3d08 onTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.execute(ZoomvaluemoinProcedure.java:34)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.onPlayerTick(ZoomvaluemoinProcedure.java:23)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.__ZoomvaluemoinProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(Player.java:285)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(Connection.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[26Dec2024 01:42:32.615] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.187.213.66:40649
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:530) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.execute(ZoomvaluemoinProcedure.java:34) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.onPlayerTick(ZoomvaluemoinProcedure.java:23) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.mcreator.fpsboostremake.procedures.__ZoomvaluemoinProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920) ~[forge-1.20.1-47.3.7-universal.jar%23256!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	... 9 more
+[26Dec2024 01:42:32.620] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[26Dec2024 01:42:32.622] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[26Dec2024 01:42:32.628] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[26Dec2024 01:42:32.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LshiftF lost connection: Internal server error
+[26Dec2024 01:42:32.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LshiftF left the game
+[26Dec2024 01:42:32.640] [Server thread/WARN] [com.alrex.parcool.ParCool/]: Limitation entry is not loaded for UUID:01206649-8226-31fd-a2a2-1bc511c3c575. Skipped.
+[26Dec2024 01:44:02.969] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LshiftF[/127.187.213.66:43097] logged in with entity id 530 at (202.5, 39.0, -76.5)
+[26Dec2024 01:44:02.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LshiftF joined the game
+[26Dec2024 01:44:03.022] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to LshiftF
+[26Dec2024 01:44:03.068] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[26Dec2024 01:44:03.068] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	Index: 8
+	Listeners:
+		0: HIGH
+		1: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		2: NORMAL
+		3: ASM: class net.meme.sirenhead.procedures.SirenHeadSpawnProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		4: ASM: class net.meme.sirenhead.Playerscreenshake onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		5: ASM: croissantnova.sanitydim.event.EventHandler@69bec763 tickPlayer(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		6: ASM: class net.mcreator.theanomaly.procedures.IsPlayerLookingProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		7: ASM: class com.tacz.guns.event.HitboxHelperEvent onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		8: ASM: class net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		9: ASM: class net.mcreator.fpsboostremake.procedures.ZoomvalueProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		10: ASM: class net.mcreator.fpsboostremake.procedures.UpdateFPSProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		11: ASM: class net.mcreator.fpsboostremake.procedures.NotifyProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		12: ASM: class net.mcreator.fpsboostremake.procedures.IndicatorGUIProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		13: ASM: class net.mcreator.fpsboostremake.procedures.Afkdetector2Procedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		14: ASM: class net.mcreator.fpsboostremake.procedures.AfkTimerProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		15: ASM: com.mrcrayfish.framework.event.ForgeEvents@224405e2 onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		16: ASM: class net.mcreator.theboiledone.procedures.RandomProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		17: ASM: class net.mcreator.theboiledone.procedures.EntityspawningProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		18: ASM: class net.mcreator.theboiledone.procedures.DProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		19: ASM: com.alrex.parcool.common.action.ActionProcessor@54c460d1 onTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		20: ASM: class net.mcreator.biodiverse.procedures.NormalReachProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		21: ASM: class apollyon.procedures.TheDamnedRisesProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		22: ASM: de.maxhenkel.camera.ServerEvents@42dc3d08 onTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.execute(ZoomvaluemoinProcedure.java:34)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.onPlayerTick(ZoomvaluemoinProcedure.java:23)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.__ZoomvaluemoinProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(Player.java:285)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(Connection.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[26Dec2024 01:44:03.114] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.187.213.66:43097
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:530) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.execute(ZoomvaluemoinProcedure.java:34) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.onPlayerTick(ZoomvaluemoinProcedure.java:23) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.mcreator.fpsboostremake.procedures.__ZoomvaluemoinProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920) ~[forge-1.20.1-47.3.7-universal.jar%23256!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	... 9 more
+[26Dec2024 01:44:03.131] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[26Dec2024 01:44:03.135] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[26Dec2024 01:44:03.161] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[26Dec2024 01:44:03.162] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	Index: 8
+	Listeners:
+		0: HIGH
+		1: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		2: NORMAL
+		3: ASM: class net.meme.sirenhead.procedures.SirenHeadSpawnProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		4: ASM: class net.meme.sirenhead.Playerscreenshake onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		5: ASM: croissantnova.sanitydim.event.EventHandler@69bec763 tickPlayer(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		6: ASM: class net.mcreator.theanomaly.procedures.IsPlayerLookingProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		7: ASM: class com.tacz.guns.event.HitboxHelperEvent onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		8: ASM: class net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		9: ASM: class net.mcreator.fpsboostremake.procedures.ZoomvalueProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		10: ASM: class net.mcreator.fpsboostremake.procedures.UpdateFPSProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		11: ASM: class net.mcreator.fpsboostremake.procedures.NotifyProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		12: ASM: class net.mcreator.fpsboostremake.procedures.IndicatorGUIProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		13: ASM: class net.mcreator.fpsboostremake.procedures.Afkdetector2Procedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		14: ASM: class net.mcreator.fpsboostremake.procedures.AfkTimerProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		15: ASM: com.mrcrayfish.framework.event.ForgeEvents@224405e2 onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		16: ASM: class net.mcreator.theboiledone.procedures.RandomProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		17: ASM: class net.mcreator.theboiledone.procedures.EntityspawningProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		18: ASM: class net.mcreator.theboiledone.procedures.DProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		19: ASM: com.alrex.parcool.common.action.ActionProcessor@54c460d1 onTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		20: ASM: class net.mcreator.biodiverse.procedures.NormalReachProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		21: ASM: class apollyon.procedures.TheDamnedRisesProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		22: ASM: de.maxhenkel.camera.ServerEvents@42dc3d08 onTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.execute(ZoomvaluemoinProcedure.java:34)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.onPlayerTick(ZoomvaluemoinProcedure.java:23)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.__ZoomvaluemoinProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(Player.java:285)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(Connection.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[26Dec2024 01:44:03.222] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.187.213.66:43097
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:530) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.execute(ZoomvaluemoinProcedure.java:34) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.onPlayerTick(ZoomvaluemoinProcedure.java:23) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.mcreator.fpsboostremake.procedures.__ZoomvaluemoinProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920) ~[forge-1.20.1-47.3.7-universal.jar%23256!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	... 9 more
+[26Dec2024 01:44:03.246] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[26Dec2024 01:44:03.264] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[26Dec2024 01:44:03.264] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	Index: 8
+	Listeners:
+		0: HIGH
+		1: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		2: NORMAL
+		3: ASM: class net.meme.sirenhead.procedures.SirenHeadSpawnProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		4: ASM: class net.meme.sirenhead.Playerscreenshake onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		5: ASM: croissantnova.sanitydim.event.EventHandler@69bec763 tickPlayer(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		6: ASM: class net.mcreator.theanomaly.procedures.IsPlayerLookingProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		7: ASM: class com.tacz.guns.event.HitboxHelperEvent onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		8: ASM: class net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		9: ASM: class net.mcreator.fpsboostremake.procedures.ZoomvalueProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		10: ASM: class net.mcreator.fpsboostremake.procedures.UpdateFPSProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		11: ASM: class net.mcreator.fpsboostremake.procedures.NotifyProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		12: ASM: class net.mcreator.fpsboostremake.procedures.IndicatorGUIProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		13: ASM: class net.mcreator.fpsboostremake.procedures.Afkdetector2Procedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		14: ASM: class net.mcreator.fpsboostremake.procedures.AfkTimerProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		15: ASM: com.mrcrayfish.framework.event.ForgeEvents@224405e2 onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		16: ASM: class net.mcreator.theboiledone.procedures.RandomProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		17: ASM: class net.mcreator.theboiledone.procedures.EntityspawningProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		18: ASM: class net.mcreator.theboiledone.procedures.DProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		19: ASM: com.alrex.parcool.common.action.ActionProcessor@54c460d1 onTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		20: ASM: class net.mcreator.biodiverse.procedures.NormalReachProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		21: ASM: class apollyon.procedures.TheDamnedRisesProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		22: ASM: de.maxhenkel.camera.ServerEvents@42dc3d08 onTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.execute(ZoomvaluemoinProcedure.java:34)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.onPlayerTick(ZoomvaluemoinProcedure.java:23)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.__ZoomvaluemoinProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(Player.java:285)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(Connection.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[26Dec2024 01:44:03.297] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.187.213.66:43097
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:530) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.execute(ZoomvaluemoinProcedure.java:34) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.onPlayerTick(ZoomvaluemoinProcedure.java:23) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.mcreator.fpsboostremake.procedures.__ZoomvaluemoinProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920) ~[forge-1.20.1-47.3.7-universal.jar%23256!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	... 9 more
+[26Dec2024 01:44:03.320] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[26Dec2024 01:44:03.320] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	Index: 8
+	Listeners:
+		0: HIGH
+		1: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		2: NORMAL
+		3: ASM: class net.meme.sirenhead.procedures.SirenHeadSpawnProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		4: ASM: class net.meme.sirenhead.Playerscreenshake onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		5: ASM: croissantnova.sanitydim.event.EventHandler@69bec763 tickPlayer(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		6: ASM: class net.mcreator.theanomaly.procedures.IsPlayerLookingProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		7: ASM: class com.tacz.guns.event.HitboxHelperEvent onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		8: ASM: class net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		9: ASM: class net.mcreator.fpsboostremake.procedures.ZoomvalueProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		10: ASM: class net.mcreator.fpsboostremake.procedures.UpdateFPSProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		11: ASM: class net.mcreator.fpsboostremake.procedures.NotifyProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		12: ASM: class net.mcreator.fpsboostremake.procedures.IndicatorGUIProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		13: ASM: class net.mcreator.fpsboostremake.procedures.Afkdetector2Procedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		14: ASM: class net.mcreator.fpsboostremake.procedures.AfkTimerProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		15: ASM: com.mrcrayfish.framework.event.ForgeEvents@224405e2 onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		16: ASM: class net.mcreator.theboiledone.procedures.RandomProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		17: ASM: class net.mcreator.theboiledone.procedures.EntityspawningProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		18: ASM: class net.mcreator.theboiledone.procedures.DProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		19: ASM: com.alrex.parcool.common.action.ActionProcessor@54c460d1 onTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		20: ASM: class net.mcreator.biodiverse.procedures.NormalReachProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		21: ASM: class apollyon.procedures.TheDamnedRisesProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		22: ASM: de.maxhenkel.camera.ServerEvents@42dc3d08 onTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.execute(ZoomvaluemoinProcedure.java:34)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.onPlayerTick(ZoomvaluemoinProcedure.java:23)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.__ZoomvaluemoinProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(Player.java:285)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(Connection.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[26Dec2024 01:44:03.364] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.187.213.66:43097
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:530) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.execute(ZoomvaluemoinProcedure.java:34) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.onPlayerTick(ZoomvaluemoinProcedure.java:23) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.mcreator.fpsboostremake.procedures.__ZoomvaluemoinProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920) ~[forge-1.20.1-47.3.7-universal.jar%23256!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	... 9 more
+[26Dec2024 01:44:03.401] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[26Dec2024 01:44:03.401] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	Index: 8
+	Listeners:
+		0: HIGH
+		1: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		2: NORMAL
+		3: ASM: class net.meme.sirenhead.procedures.SirenHeadSpawnProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		4: ASM: class net.meme.sirenhead.Playerscreenshake onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		5: ASM: croissantnova.sanitydim.event.EventHandler@69bec763 tickPlayer(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		6: ASM: class net.mcreator.theanomaly.procedures.IsPlayerLookingProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		7: ASM: class com.tacz.guns.event.HitboxHelperEvent onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		8: ASM: class net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		9: ASM: class net.mcreator.fpsboostremake.procedures.ZoomvalueProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		10: ASM: class net.mcreator.fpsboostremake.procedures.UpdateFPSProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		11: ASM: class net.mcreator.fpsboostremake.procedures.NotifyProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		12: ASM: class net.mcreator.fpsboostremake.procedures.IndicatorGUIProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		13: ASM: class net.mcreator.fpsboostremake.procedures.Afkdetector2Procedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		14: ASM: class net.mcreator.fpsboostremake.procedures.AfkTimerProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		15: ASM: com.mrcrayfish.framework.event.ForgeEvents@224405e2 onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		16: ASM: class net.mcreator.theboiledone.procedures.RandomProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		17: ASM: class net.mcreator.theboiledone.procedures.EntityspawningProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		18: ASM: class net.mcreator.theboiledone.procedures.DProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		19: ASM: com.alrex.parcool.common.action.ActionProcessor@54c460d1 onTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		20: ASM: class net.mcreator.biodiverse.procedures.NormalReachProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		21: ASM: class apollyon.procedures.TheDamnedRisesProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		22: ASM: de.maxhenkel.camera.ServerEvents@42dc3d08 onTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.execute(ZoomvaluemoinProcedure.java:34)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.onPlayerTick(ZoomvaluemoinProcedure.java:23)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.__ZoomvaluemoinProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(Player.java:285)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(Connection.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[26Dec2024 01:44:03.481] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.187.213.66:43097
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:530) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.execute(ZoomvaluemoinProcedure.java:34) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.onPlayerTick(ZoomvaluemoinProcedure.java:23) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.mcreator.fpsboostremake.procedures.__ZoomvaluemoinProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920) ~[forge-1.20.1-47.3.7-universal.jar%23256!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	... 9 more
+[26Dec2024 01:44:03.509] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[26Dec2024 01:44:03.510] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	Index: 8
+	Listeners:
+		0: HIGH
+		1: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		2: NORMAL
+		3: ASM: class net.meme.sirenhead.procedures.SirenHeadSpawnProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		4: ASM: class net.meme.sirenhead.Playerscreenshake onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		5: ASM: croissantnova.sanitydim.event.EventHandler@69bec763 tickPlayer(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		6: ASM: class net.mcreator.theanomaly.procedures.IsPlayerLookingProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		7: ASM: class com.tacz.guns.event.HitboxHelperEvent onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		8: ASM: class net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		9: ASM: class net.mcreator.fpsboostremake.procedures.ZoomvalueProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		10: ASM: class net.mcreator.fpsboostremake.procedures.UpdateFPSProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		11: ASM: class net.mcreator.fpsboostremake.procedures.NotifyProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		12: ASM: class net.mcreator.fpsboostremake.procedures.IndicatorGUIProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		13: ASM: class net.mcreator.fpsboostremake.procedures.Afkdetector2Procedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		14: ASM: class net.mcreator.fpsboostremake.procedures.AfkTimerProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		15: ASM: com.mrcrayfish.framework.event.ForgeEvents@224405e2 onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		16: ASM: class net.mcreator.theboiledone.procedures.RandomProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		17: ASM: class net.mcreator.theboiledone.procedures.EntityspawningProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		18: ASM: class net.mcreator.theboiledone.procedures.DProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		19: ASM: com.alrex.parcool.common.action.ActionProcessor@54c460d1 onTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		20: ASM: class net.mcreator.biodiverse.procedures.NormalReachProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		21: ASM: class apollyon.procedures.TheDamnedRisesProcedure onPlayerTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+		22: ASM: de.maxhenkel.camera.ServerEvents@42dc3d08 onTick(Lnet/minecraftforge/event/TickEvent$PlayerTickEvent;)V
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.execute(ZoomvaluemoinProcedure.java:34)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.onPlayerTick(ZoomvaluemoinProcedure.java:23)
+	at TRANSFORMER/fpsboostremake@1.4/net.mcreator.fpsboostremake.procedures.__ZoomvaluemoinProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(Player.java:285)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(Connection.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[26Dec2024 01:44:03.539] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.187.213.66:43097
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:530) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.execute(ZoomvaluemoinProcedure.java:34) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.mcreator.fpsboostremake.procedures.ZoomvaluemoinProcedure.onPlayerTick(ZoomvaluemoinProcedure.java:23) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.mcreator.fpsboostremake.procedures.__ZoomvaluemoinProcedure_onPlayerTick_PlayerTickEvent.invoke(.dynamic) ~[fpsboostremake-1.4-forge-1.20.1.jar%23213!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerPostTick(ForgeEventFactory.java:920) ~[forge-1.20.1-47.3.7-universal.jar%23256!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:285) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23251!/:?]
+	... 9 more
+[26Dec2024 01:44:03.542] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[26Dec2024 01:44:03.543] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[26Dec2024 01:44:03.550] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LshiftF lost connection: Internal server error
+[26Dec2024 01:44:03.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LshiftF left the game
+[26Dec2024 01:44:03.551] [Server thread/WARN] [com.alrex.parcool.ParCool/]: Limitation entry is not loaded for UUID:01206649-8226-31fd-a2a2-1bc511c3c575. Skipped.
